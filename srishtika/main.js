@@ -1,4 +1,4 @@
-// Wait for DOM to load completely
+// Wait for DOM to load completel
 document.addEventListener('DOMContentLoaded', function() {
     // Hide loader after page loads
     const loader = document.getElementById('loader');
