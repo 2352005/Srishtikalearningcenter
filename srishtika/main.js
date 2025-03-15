@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const loader = document.getElementById('loader');
     if (loader) {
         window.addEventListener('load', function() {
-            loader.style.display = 'none';
+            document.getElementById('loader').style.display = 'none';
         });
     }
     
