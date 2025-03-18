@@ -181,6 +181,16 @@ img {
     -webkit-text-fill-color: transparent;
 }
 
+.float-right {
+    float: left;
+    width: 40px;
+    height: auto;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+
+
 .nav-links ul {
     display: flex;
     list-style: none;
